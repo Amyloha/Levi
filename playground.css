@@ -1,0 +1,24 @@
+.square, .circle {
+width: 100px;
+height: 100px;
+display:block;
+float:left
+}
+.circle {
+border-radius: 50%;
+}
+#blockPink {
+background-color: pink;
+position: relative;
+}
+#blockYellow {
+background-color: rgb(230, 220, 148);
+position: relative;
+}
+#container {
+background-color: blue; margin: 0 auto;
+width: 400px;
+}
+#blockWood {
+background-image: url('wood.jpeg');
+}
